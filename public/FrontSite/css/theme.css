@@ -1,0 +1,148 @@
+.no-padding{
+    padding-left: 0 ! important;
+    padding-right: 0 ! important;
+}
+.no-margin{
+    margin-left: 0 ! important;
+    margin-right: 0 ! important;
+}
+.pad-top-5{
+    padding-top: 5px;
+}
+.pad-top-10{
+    padding-top: 10px;
+}
+.pad-top-15{
+    padding-top: 15px;
+}
+.pad-top-20{
+    padding-top: 20px;
+}
+.pad-bottom-5{
+    padding-bottom: 5px;
+}
+.pad-bottom-10{
+    padding-bottom: 10px;
+}
+.pad-bottom-15{
+    padding-bottom: 15px;
+}
+.pad-bottom-20{
+    padding-bottom: 20px;
+}
+.mar-top-5{
+    margin-top: 5px;
+}
+.mar-top-10{
+     margin-top: 10px;
+}
+.mar-top-15{
+     margin-top: 15px;
+}
+.mar-top-20{
+     margin-top: 20px;
+}
+.mar-bottom-5{
+    margin-bottom: 5px;
+}
+.mar-bottom-10{
+     margin-bottom: 10px;
+}
+.mar-bottom-15{
+     margin-bottom: 15px;
+}
+.mar-bottom-20{
+     margin-bottom: 20px;
+}
+/*custom theme start*/
+.custome-theme{
+    background: #868686;
+    color: #fff;
+}
+.custome-theme .navbar-default {
+    background-color: #00000024;
+    border-color: #e7e7e7;
+}
+.custome-theme .navbar-nav>li>a{
+    color:#ccc ! important;
+}
+.custome-theme .navbar-nav>li:hover>a{
+    color:#fff ! important;
+}
+.custome-theme .navbar-nav>.active>a,
+.custome-theme .navbar-nav>.active>a:focus,
+.custome-theme .navbar-nav>.active>a:hover{
+    color:#3c9e35 ! important;
+}
+.custome-theme .navbar-nav>.open>a,
+.custome-theme .navbar-nav>.open>a:focus,
+.custome-theme .navbar-nav>.open>a:hover{
+    color:#3c9e35 ! important;
+}
+
+.custome-theme .a{
+    color:#fff ! important;
+}
+
+footer a{
+    color:#fff;
+
+}
+footer a:hover{
+    color:#0f0;
+
+}
+.fa-facebook-square:hover{
+    color:#00f;
+}
+.fa-linkedin-square:hover{
+    color:#00c5e6;
+}
+.fa-google-plus-square:hover{
+    color: #961f1f;
+}
+
+.footer-item-title{
+    text-decoration: underline;
+    text-align: center
+}
+.fixed-container{
+    position: fixed;
+    cursor: pointer;
+    background: #3c9e35;
+    color:#fff;
+    z-index: 1000;
+    bottom:150px;
+    right:-70px;
+    padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+    transform:  translateX(-50%) translateY(-50%) rotate(-90deg);
+}
+.contact-form-title{
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline
+}
+.custome-theme .navbar-brand{
+    color: #ccc;
+    cursor: pointer
+}
+.custome-theme .navbar-brand:hover{
+    color: #fff
+}
+.custome-theme .content{
+    
+    margin-top:50px;
+    color: #000;
+    min-height: 567px;
+}
+.custome-theme .footer{
+        background: #194a4a;
+    display: inline-block;
+    width: 100%;
+        margin-bottom: -5px;
+}
+.footer-social-icon{
+    font-size: 25px;
+}
